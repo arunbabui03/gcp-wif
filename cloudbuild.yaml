@@ -1,0 +1,3 @@
+steps:
+  - name: 'ubuntu'
+    args: ['-c', 'echo "Cloud Build test - waiting for WIF pool creation"']
